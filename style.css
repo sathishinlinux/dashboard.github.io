@@ -1,0 +1,29 @@
+.main-header{
+	height:60px;
+}
+
+.layout-fixed .main-sidebar{
+	top:60px;
+}
+
+.tt-label{
+	font-size: 14px;
+}
+
+.progress{
+	border-radius: 10px;
+    height: 5px;
+}
+.revenue-1 .row{
+	margin-bottom: 30px;
+}
+.layout-fixed .main-sidebar{
+	position: absolute;
+}
+
+.service-2-nm{
+    float: right;
+    position: absolute;
+    top: 4px;
+    left: 55px;
+}
